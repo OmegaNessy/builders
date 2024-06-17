@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="builders-admin">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/target/builders-admin.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
